@@ -1326,7 +1326,7 @@ body::after {
 
 .products-new::before {
   content: "";
-  background-color: #fff;
+  background-color: transparent;
   height: 2.875rem;
   position: absolute;
   right: 0;
@@ -3006,7 +3006,7 @@ body::after {
   line-height: 1.2333333333;
   font-weight: 700;
   display: inline-block;
-  background: url("../img/icons/rub.svg") right no-repeat;
+  background: url("../img/icons/rub2.svg") right no-repeat;
   padding-right: 1.875rem;
 }
 
